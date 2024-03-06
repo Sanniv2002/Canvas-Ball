@@ -1,6 +1,8 @@
-# Canvas Animation with Balls
+# Canvas Animation with a Ball
 
-This project demonstrates a simple canvas animation with balls bouncing on the canvas.
+This project demonstrates a simple canvas animation with a ball bouncing on the canvas.
+You can also control the x-position of the ball with 'A' and 'D' keys.
+Any contributions in the physics and functionalities are welcome.
 
 ## Setup
 
